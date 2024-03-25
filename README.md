@@ -1,2 +1,3 @@
-# modelo-abalone-lgbmregressor
-Projeto de modelo prditivo com datset abalone.csv para tarefa de regressão
+# Modelo abalone LGBM Regressor  
+
+Projeto de modelo preditivo com dataset abalone.csv para tarefa de regressão
